@@ -1,0 +1,52 @@
+.topnav
+{
+  overflow:hidden;
+  background-color:steelblue;
+  text-align:center;
+margin:10px auto;
+margin-top: 20px;
+padding-top:10px;
+padding-bottom:10px;
+}
+body{
+  background-color: #005684;
+}
+.topnav a{
+  color:white;
+  font-family: sans-serif;
+  font-weight:bold;
+  font-size:1.2em;
+  padding:10px;
+  padding-left: 20px;
+  padding-right:20px;
+  margin-top: 10px;
+}
+
+h1{
+  text-align:center;
+  color:white;
+}
+.topnav a:hover
+{
+  color: black;
+  background-color: lightsteelblue;
+}
+
+
+
+p {
+  text-align: center;
+  color:white;
+  font-family:sans-serif;
+}
+.maintextarea
+{
+  padding:10px;
+  background-color: lightsteelblue;
+  color:black;
+}
+
+.maintextarea p
+{
+  color:black;
+}
